@@ -1,6 +1,6 @@
 ---
 title: "Wendy Rubi Chavez Tacuri"
-image: foto.jpg
+image: images/foto.jpg
 about:
   template: trestles
   image-width: 5cm
@@ -23,3 +23,5 @@ Prior to university, I studied at the Giuseppe Garibaldi Agricultural Technical 
 Through my academic journey, I aim to explore how economic growth and social equity intersect in shaping Latin America’s role in global politics.
 
 On this website, you’ll find a presentation of my research project, analyzing how international leaders portray Latin America in global discourse. Feel free to explore and learn more about my work!
+
+You can also check out my [CV](cv/cv en.pdf).
