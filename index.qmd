@@ -3,7 +3,7 @@ title: "Wendy Rubi Chavez Tacuri"
 image: images/foto.jpg
 about:
   template: trestles
-  image-width: 5cm
+  image-width: 6cm
   image-shape: round
   links:
     - icon: instagram
