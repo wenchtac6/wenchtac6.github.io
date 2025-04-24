@@ -11,7 +11,7 @@ about:
     - icon: github
       href: https://wenchtac6.github.io/
     - icon: linkedin
-      href: www.linkedin.com/in/wendy-rubi-chavez-tacuri/
+      href: https://www.linkedin.com/in/wendy-rubi-chavez-tacuri-415bb5208/  
 
 ---
 
