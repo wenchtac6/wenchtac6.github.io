@@ -9,5 +9,8 @@ editor: visual
 You can check out some of the projects that I conducted.
 
 <ul>
+  <li><a href="presentation.html" target="_blank">No Longer Conforming to Stereotypes? Gender, Political Style and Parliamentary Debate in the UK</a></li>
+</ul>
 
-"C:/Users/rubi2/OneDrive - John Cabot University/Desktop/PL-CS/wenchtac6.github.io/portfolio.qmd"
+
+

@@ -1,5 +1,18 @@
 ---
-title: "Wendy Chavez Tacuri"
+title: "Wendy Rubi Chavez Tacuri"
+image: foto.jpg
+about:
+  template: trestles
+  image-width: 5cm
+  image-shape: round
+  links:
+    - icon: instagram
+      href: https://www.instagram.com/wendy.tacuri/
+    - icon: github
+      href: https://wenchtac6.github.io/
+    - icon: linkedin
+      href: www.linkedin.com/in/wendy-rubi-chavez-tacuri/
+
 ---
 
 Welcome! I am an undergraduate student in International Affairs at John Cabot University in Rome, currently also pursuing a minor in Economics.
