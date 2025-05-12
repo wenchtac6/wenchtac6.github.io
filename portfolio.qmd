@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-# Projects
+## Projects
 
 <h3>Computational Methods: Text Analysis in Python</h3>
 <p>This project was conducted for the course <strong>Computational Methods: Text Analysis in Python</strong>. The goal was to explore how Latin America is represented in UN General Debate speeches using real-world text data, sentiment analysis, and topic modeling techniques.</p>
@@ -28,6 +28,8 @@ editor: visual
     </tr>
   </tbody>
 </table>
+
+## Other projects:
 
 <p>Here are a few additional projects I’ve worked on:</p>
 
