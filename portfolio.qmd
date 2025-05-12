@@ -4,13 +4,13 @@ format: html
 editor: visual
 ---
 
-## Projects
+## Most recent project
 
-<h3>Computational Methods: Text Analysis in Python</h3>
-<p>This project was conducted for the course <strong>Computational Methods: Text Analysis in Python</strong>. The goal was to explore how Latin America is represented in UN General Debate speeches using real-world text data, sentiment analysis, and topic modeling techniques.</p>
+<p>This is my most recent project, completed for the course *Computational Methods: Text Analysis in Python*.
+ The goal was to explore how Latin America is represented in UN General Debate speeches using real-world text data, sentiment analysis, and topic modeling techniques.</p>
 
-<table>
-  <thead>
+<table class="table table-hover table-striped table-bordered">
+  <thead class="table-light">
     <tr>
       <th>Project</th>
       <th>Goal</th>
@@ -29,7 +29,8 @@ editor: visual
   </tbody>
 </table>
 
-## Other projects:
+
+## Other projects
 
 <p>Here are a few additional projects I’ve worked on:</p>
 
